@@ -4,7 +4,7 @@
   # Paulina SMS Gateway 🚀
   **Turn any Android Phone into an Automated, API-Driven SMS Courier.**
 
-  [![Android Release](https://img.shields.io/github/v/release/DelcioLuis/paulina-sms-public?color=blue&label=APK%20Release&logo=android)](https://github.com/DelcioLuis/paulina-sms-public/releases) 
+  [![Android Release](https://img.shields.io/badge/APK%20Release-v1.1.0-blue?logo=android)](https://ij08jc4ubp6szflu.public.blob.vercel-storage.com/sms_apk_version/smsgetway_1.1.0.apk)  
   [![Made with Node.js](https://img.shields.io/badge/Backend-Node.js-green)](https://nodejs.org/)
   [![Issues](https://img.shields.io/github/issues/DelcioLuis/paulina-sms-public)](https://github.com/DelcioLuis/paulina-sms-public/issues)
   [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
@@ -29,7 +29,7 @@ Forget about expensive carrier contracts. Plug your own SIM Cards and deliver me
 
 The official mobile client is continually published and strictly maintained. 
 
-**[➡️ Download the Latest APK Here](https://github.com/DelcioLuis/paulina-sms-public/releases/latest)**
+**[➡️ Download the Latest APK Here (v1.1.0)](https://ij08jc4ubp6szflu.public.blob.vercel-storage.com/sms_apk_version/smsgetway_1.1.0.apk)**
 
 1. Transfer the `.apk` to your target Android Device.
 2. Install the app (You might need to allow "Install from Unknown Sources" depending on your Android version).
