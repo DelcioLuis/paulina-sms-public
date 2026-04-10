@@ -4,9 +4,9 @@
   # Paulina SMS Gateway 🚀
   **Turn any Android Phone into an Automated, API-Driven SMS Courier.**
 
-  [![Android Release](https://img.shields.io/github/v/release/your-username/paulina-sms?color=blue&label=APK%20Release&logo=android)](https://github.com/your-username/paulina-sms/releases) 
+  [![Android Release](https://img.shields.io/github/v/release/DelcioLuis/paulina-sms-public?color=blue&label=APK%20Release&logo=android)](https://github.com/DelcioLuis/paulina-sms-public/releases) 
   [![Made with Node.js](https://img.shields.io/badge/Backend-Node.js-green)](https://nodejs.org/)
-  [![Issues](https://img.shields.io/github/issues/your-username/paulina-sms)](https://github.com/your-username/paulina-sms/issues)
+  [![Issues](https://img.shields.io/github/issues/DelcioLuis/paulina-sms-public)](https://github.com/DelcioLuis/paulina-sms-public/issues)
   [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 </div>
 
@@ -29,7 +29,7 @@ Forget about expensive carrier contracts. Plug your own SIM Cards and deliver me
 
 The official mobile client is continually published and strictly maintained. 
 
-**[➡️ Download the Latest APK Here](https://github.com/your-username/paulina-sms/releases/latest)**
+**[➡️ Download the Latest APK Here](https://github.com/DelcioLuis/paulina-sms-public/releases/latest)**
 
 1. Transfer the `.apk` to your target Android Device.
 2. Install the app (You might need to allow "Install from Unknown Sources" depending on your Android version).
@@ -88,10 +88,10 @@ app.post('/webhook/sms', (req, res) => {
 We heavily rely on developer feedback to keep the ecosystem stable!
 If you encountered a crash, unresponsive deliveries, or want to suggest new features (like WhatsApp protocol syncing):
 
-1. **Check Existing Issues**: Ensure your bug hasn't been [reported already](https://github.com/your-username/paulina-sms/issues).
+1. **Check Existing Issues**: Ensure your bug hasn't been [reported already](https://github.com/DelcioLuis/paulina-sms-public/issues).
 2. **Open a New Issue**: Please include the **Device Model**, **Android Version**, and any relevant **cURL logs** so we can trace the misfire.
 
-[🐞 Click here to Report a Bug / Open Issue](https://github.com/your-username/paulina-sms/issues/new)
+[🐞 Click here to Report a Bug / Open Issue](https://github.com/DelcioLuis/paulina-sms-public/issues/new)
 
 ---
 
