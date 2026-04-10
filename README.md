@@ -45,7 +45,7 @@ Routing an SMS is as simple as triggering a `POST` request to our master servers
 ### Sending an SMS (Node.js Example)
 
 ```javascript
-fetch('https://api.yourdomain.com/sms/send', {
+fetch('http://sms-api.paulinasource.com/sms/send', {
     method: 'POST',
     headers: {
         'Content-Type': 'application/json',
