@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/smsgateway/assets/main/logo.png" alt="Paulina SMS Gateway" width="120" />
+  <img src="https://ij08jc4ubp6szflu.public.blob.vercel-storage.com/sms_apk_version/icon.png" alt="Paulina SMS Gateway" width="120" />
 
   # Paulina SMS Gateway 🚀
   **Turn any Android Phone into an Automated, API-Driven SMS Courier.**
