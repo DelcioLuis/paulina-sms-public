@@ -10,6 +10,14 @@
   [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 </div>
 
+<div align="center">
+  <h3>
+    <a href="https://sms.paulinasource.com">☁️ Cloud Dashboard</a>
+    <span> | </span>
+    <a href="https://sms.paulinasource.com/docs/introduction">📚 Web Documentation</a>
+  </h3>
+</div>
+
 <br/>
 
 Paulina SMS Gateway is a professional, open-source infrastructure that allows developers to seamlessly route SMS messages globally directly from their servers to any Android device using our robust Backend API and Mobile Client.
