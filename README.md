@@ -31,6 +31,11 @@ The official mobile client is continually published and strictly maintained.
 
 **[➡️ Download the Latest APK Here (v1.1.0)](https://ij08jc4ubp6szflu.public.blob.vercel-storage.com/sms_apk_version/smsgetway_1.1.0.apk)**
 
+#### 🗄️ Versions Archive
+| Version | Release Date | Download Link | Notes |
+|---------|-------------|---------------|-------|
+| `v1.1.0` | April 2026 | [📥 Get APK](https://ij08jc4ubp6szflu.public.blob.vercel-storage.com/sms_apk_version/smsgetway_1.1.0.apk) | Initial Stable Release with Slack & Email integrations. |
+
 1. Transfer the `.apk` to your target Android Device.
 2. Install the app (You might need to allow "Install from Unknown Sources" depending on your Android version).
 3. Grant the required permissions `SMS` and `Background Execution` to allow background message processing.
