@@ -4,7 +4,7 @@
   # Paulina SMS Gateway 🚀
   **Turn any Android Phone into an Automated, API-Driven SMS Courier.**
 
-  [![Android Release](https://img.shields.io/badge/APK%20Release-v1.1.0-blue?logo=android)](https://ij08jc4ubp6szflu.public.blob.vercel-storage.com/sms_apk_version/smsgetway_1.1.0.apk)  
+  [![Android Release](https://img.shields.io/badge/APK%20Release-v1.2.0-blue?logo=android)](https://ij08jc4ubp6szflu.public.blob.vercel-storage.com/sms_apk_version/smsgateway.1.2.0.apk)  
   [![Made with Node.js](https://img.shields.io/badge/Backend-Node.js-green)](https://nodejs.org/)
   [![Issues](https://img.shields.io/github/issues/DelcioLuis/paulina-sms-public)](https://github.com/DelcioLuis/paulina-sms-public/issues)
   [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
@@ -37,11 +37,12 @@ Forget about expensive carrier contracts. Plug your own SIM Cards and deliver me
 
 The official mobile client is continually published and strictly maintained. 
 
-**[➡️ Download the Latest APK Here (v1.1.0)](https://ij08jc4ubp6szflu.public.blob.vercel-storage.com/sms_apk_version/smsgetway_1.1.0.apk)**
+**[➡️ Download the Latest APK Here (v1.2.0)](https://ij08jc4ubp6szflu.public.blob.vercel-storage.com/sms_apk_version/smsgateway.1.2.0.apk)**
 
 #### 🗄️ Versions Archive
 | Version | Release Date | Download Link | Notes |
 |---------|-------------|---------------|-------|
+| `v1.2.0` | April 2026 | [📥 Get APK](https://ij08jc4ubp6szflu.public.blob.vercel-storage.com/sms_apk_version/smsgateway.1.2.0.apk) | Multi-tenant architecture (connect 1 phone to N projects), Immutable Hardware ID (WideVine DRM), Glassmorphism UX, and Text-based Project Linking. |
 | `v1.1.0` | April 2026 | [📥 Get APK](https://ij08jc4ubp6szflu.public.blob.vercel-storage.com/sms_apk_version/smsgetway_1.1.0.apk) | Initial Stable Release with Slack & Email integrations. |
 
 1. Transfer the `.apk` to your target Android Device.
