@@ -29,6 +29,7 @@ Forget about expensive carrier contracts. Plug your own SIM Cards and deliver me
 - **RESTful API**: Send SMS programmatically with any language using our developer-friendly APIs.
 - **Webhooks & Telemetry**: Receive real-time Delivery Receipts (Delivered, Sent, Failed) directly to your servers or Native Integrations.
 - **Native Slack & Email Digests**: Push real-time network statuses to Slack channels and daily digest reports to email.
+- **Contact Synchronization**: Automatically sync your Android device contacts with your workspace for easier management.
 - **End-to-End Encryption**: Assured data confidentiality out-of-the-box using the industry-standard HMAC SHA256 Webhook Signatures.
 
 ---
@@ -42,7 +43,7 @@ The official mobile client is continually published and strictly maintained.
 #### 🗄️ Versions Archive
 | Version | Release Date | Download Link | Notes |
 |---------|-------------|---------------|-------|
-| `v1.2.0` | April 2026 | [📥 Get APK](https://ij08jc4ubp6szflu.public.blob.vercel-storage.com/sms_apk_version/smsgateway.1.2.0.apk) | Multi-tenant architecture (connect 1 phone to N projects), Immutable Hardware ID (WideVine DRM), Glassmorphism UX, and Text-based Project Linking. |
+| `v1.2.0` | April 2026 | [📥 Get APK](https://ij08jc4ubp6szflu.public.blob.vercel-storage.com/sms_apk_version/smsgateway.1.2.0.apk) | Multi-tenant architecture (connect 1 phone to N projects), Immutable Hardware ID (WideVine DRM), Contact Synchronization, Glassmorphism UX, and Text-based Project Linking. |
 | `v1.1.0` | April 2026 | [📥 Get APK](https://ij08jc4ubp6szflu.public.blob.vercel-storage.com/sms_apk_version/smsgetway_1.1.0.apk) | Initial Stable Release with Slack & Email integrations. |
 
 1. Transfer the `.apk` to your target Android Device.
