@@ -26,6 +26,7 @@ Forget about expensive carrier contracts. Plug your own SIM Cards and deliver me
 
 ## ✨ Core Features
 - **Plug & Play**: Connect an unlimited network of Android phones by simply scanning a QR code.
+- **Global Mesh Network**: Opt-in to become a Public Node or route your SMS instantly through our decentralized, worldwide network of real devices protected by Enterprise-grade Biometric KYC.
 - **RESTful API**: Send SMS programmatically with any language using our developer-friendly APIs.
 - **Webhooks & Telemetry**: Receive real-time Delivery Receipts (Delivered, Sent, Failed) directly to your servers or Native Integrations.
 - **Native Slack & Email Digests**: Push real-time network statuses to Slack channels and daily digest reports to email.
